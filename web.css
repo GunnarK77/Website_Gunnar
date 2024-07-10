@@ -57,3 +57,9 @@ header {
   height: 600px;
   border: 1px solid #ddd;
 }
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+}
